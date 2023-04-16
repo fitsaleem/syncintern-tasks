@@ -3,9 +3,9 @@ delighted to make you an offer as a ReactJs Intern.
 
 # Tasks
 
-***Week 1**
+# Week 1
 
-***Task 1**
+**Task 1**
 
 **Create Weather App.**
 
@@ -15,7 +15,7 @@ We will use the fetch method to fetch the API calls along with the React hooks a
 
 
 
-**Week 2**
+# Week 2
 
 **Task 2**
 
@@ -27,7 +27,7 @@ This is another app example that would require real time data functionality from
 If Firebase gets boring, you could try Supabase which is a very competitive alternative also with realtime database features, but which is backed by Postgres instead of Firestore.
 
 
-**Week 3**
+# Week 3
 
 **Task 3**
 
@@ -36,7 +36,7 @@ If Firebase gets boring, you could try Supabase which is a very competitive alte
 You can use this project to guide yourself through the steps of creating a resume-builder using ReactJS and NodeJS. 
 Executing the project will allow you to support highly skilled individuals with the same and enjoy the delight of independently auto-generating it.
 
-**Week 4**
+# Week 4
 
 **Task 4**
 
