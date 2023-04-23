@@ -1,7 +1,24 @@
 # Weather app using react js and bootstrap
 
-***install some dependence for this project***
-1: axios
-2: styled-components
 
-command: npm i style-components axios --save
+# setup fontawesome with react
+
+***1. Add SVG Core***
+
+```
+npm i --save @fortawesome/fontawesome-svg-core
+```
+***2. Add Free Icon Packages***
+
+```
+npm i --save @fortawesome/free-solid-svg-icons
+npm i --save @fortawesome/free-regular-svg-icons
+```
+
+
+***3. Add the React Component***
+
+```
+npm i --save @fortawesome/react-fontawesome@latest
+```
+**You're Ready to Add Icons!**

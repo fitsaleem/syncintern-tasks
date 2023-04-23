@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+    
+}
+.fotter{
+    color: white;
+    text-align: center;
+  }
+.fotter a{
+    color: floralwhite;
+    font-weight: bold;
+  }
