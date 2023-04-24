@@ -1,15 +1,12 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    
-    
+
+.page{
+    margin-top: 80px;
 }
 .fotter{
-    color: white;
+    color: black;
     text-align: center;
   }
 .fotter a{
-    color: floralwhite;
+    color: black;
     font-weight: bold;
   }

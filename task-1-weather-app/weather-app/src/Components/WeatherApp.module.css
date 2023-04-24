@@ -1,21 +1,47 @@
 
-.card{
-    display: flex;
-    flex-direction: column;
-    text-align: center;
+
+
+.card {
+    width: 100%;
     max-width: 500px;
-    min-height: 550px;
-    border: 3px solid black;
-    margin: auto;
-    margin-top: 20px;
-    background-color: #fff;
-    
-    
-}
-.icon{
+    margin: 0 auto;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+    background-color: #25274d;
+    color: #fff;
+   
+  }
+  .card1{
+    color: #000;
+  }
+  .icon {
+    margin-right: 0.5rem;
     --fa-animation-duration: 3s;
     transform: scaleX(-1);
-}
+  }
+  
+  .spinner-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem 0;
+  }
+  
+  .alert {
+    margin-top: 1rem;
+  }
+
+  .button{
+    margin: 8px 8px;
+  }
+  
+  @media screen and (max-width: 576px) {
+    .card {
+      max-width: 100%;
+    }
+  }
+  
   
 
   

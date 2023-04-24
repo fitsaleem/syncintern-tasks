@@ -12,7 +12,7 @@ function App() {
    <WeatherApp></WeatherApp>
    </div>
    <div className={styles.fotter}>
-        <a href="https://www.htmlhints.com/article/how-to-create-toggle-switch/93">
+        <a target="_blank"  href="https://github.com/fitsaleem/syncintern-tasks/tree/main/task-1-weather-app/weather-app">
           Download Source Code
         </a>{" "}
         | Developed by{" "}
