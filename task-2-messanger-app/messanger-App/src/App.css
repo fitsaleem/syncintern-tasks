@@ -11,8 +11,8 @@ body {
 h1 {
   font-size: 2rem;
   color: #333;
-  margin: 2rem 0 1rem;
   text-align: center;
+  margin-bottom: 1rem;
 }
 
 /* Chat container styles */
@@ -43,7 +43,7 @@ h1 {
   font-size: 1.2rem;
   color: #666;
   padding: 0.5rem;
-  background-color: #f7cccc;
+  background-color: #f0f0f0;
   border: 1px solid #ccc;
   border-radius: 10px;
 }
@@ -58,7 +58,8 @@ h1 {
  
 }
 span.myMessage {
-  background-color: #DCE4F7;
+  background-color: #4CAF50;
+  color: #ffff;
 }
 
 /* Input field styles */
@@ -88,4 +89,30 @@ button[type="submit"] {
 /* Style the "Send" button to be positioned next to the input field */
 input[type="text"] + button[type="submit"] {
   margin-left: 1rem;
+}
+
+@media (max-width: 768px) {
+  input[type="text"], button[type="submit"] {
+    display: block;
+    width: 100%;
+    margin: 10px 0;
+  }
+
+  input[type="text"] {
+    margin-left: 0;
+  }
+}
+
+.google-btn{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  width: 200px;
+  margin: auto;
+  margin-top: 250px;
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
 }
