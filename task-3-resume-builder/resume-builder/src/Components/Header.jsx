@@ -7,6 +7,7 @@ export default function Header() {
   return (
     
     <>
+    
     <div className={styles.container}>
     <img src={resumeSvg} alt="Resume Icon" className={styles.icon} />
         <p className={styles.heading}>
