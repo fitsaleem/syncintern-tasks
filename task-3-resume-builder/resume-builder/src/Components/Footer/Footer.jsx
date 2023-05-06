@@ -20,6 +20,7 @@ function Footer() {
                 <li><a href="https://github.com/fitsaleem" target="blank">GitHub</a></li>
                 <li><a href="https://www.youtube.com/@fitcodding" target="blank">Youtube</a></li>
                 <li><a href="https://www.linkedin.com/in/saleem-raza-3aa6b0204/" target="blank">Linkedin</a></li>
+                
               </ul>
             </div>
             </div>
@@ -27,10 +28,10 @@ function Footer() {
             <div className={styles.card}>
               <h3>Contact Us</h3>
               <p>
-                123 Main Street<br />
-                New York, NY 10001<br />
-                Phone: (123) 456-7890<br />
-                Email: info@example.com
+              Sindh Madrasa-tul-Islam University,<br />
+              City Campus, Karachi<br />
+                Phone: (+92) 3347-3360853<br />
+                Email: sr.saleem774@gmail.com
               </p>
             </div>
             </div>
