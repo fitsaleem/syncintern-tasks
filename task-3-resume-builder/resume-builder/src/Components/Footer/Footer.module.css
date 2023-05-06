@@ -43,6 +43,7 @@ footer {
 
 .col ul li {
   margin-bottom: 10px;
+  
 }
 
 .col ul li a {
@@ -53,7 +54,7 @@ footer {
 }
 
 .col ul li a:hover {
-  color: #239ce2;
+  color: #000;
 }
 
 /* Custom styles for cards inside the footer */
@@ -69,6 +70,7 @@ footer {
   transform: translateY(-10px);
   box-shadow: 0 15px 30px rgba(0, 0, 0, 0.2);
   background-color: #239ce2;
+  color: #fff;
 }
 
 .card h4 {

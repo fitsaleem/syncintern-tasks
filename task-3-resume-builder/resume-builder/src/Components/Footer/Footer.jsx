@@ -10,18 +10,16 @@ function Footer() {
             <div className={styles.card}>
               <h3>About Us</h3>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-              </p>
+              Hi, A passionate devOps engineer and Full Stack developer              </p>
             </div>
             </div>
             <div className={styles.col}>
             <div className={styles.card}>
               <h3>Quick Links</h3>
               <ul>
-                <li><a href="/">Home</a></li>
-                <li><a href="/about">About</a></li>
-                <li><a href="/services">Services</a></li>
-                <li><a href="/contact">Contact</a></li>
+                <li><a href="https://github.com/fitsaleem" target="blank">GitHub</a></li>
+                <li><a href="https://www.youtube.com/@fitcodding" target="blank">Youtube</a></li>
+                <li><a href="https://www.linkedin.com/in/saleem-raza-3aa6b0204/" target="blank">Linkedin</a></li>
               </ul>
             </div>
             </div>
